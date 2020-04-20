@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CustomViewDraw</string>
+    <string name="title_draw_arc">弧</string>
+    <string name="title_draw_argb">颜色</string>
+    <string name="title_draw_bitmap">图片</string>
+    <string name="title_draw_circle">圆</string>
+    <string name="title_draw_line">线</string>
+    <string name="title_draw_oval">椭圆</string>
+    <string name="title_draw_path">路径</string>
+    <string name="title_draw_point">点</string>
+    <string name="title_draw_rect">矩形</string>
+    <string name="title_draw_round_rect">圆角矩形</string>
+    <string name="title_draw_text">文字</string>
+
+    <string name="title_paint_shader">着色器</string>
+</resources>
